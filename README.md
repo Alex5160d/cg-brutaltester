@@ -1,6 +1,6 @@
 # cg-brutaltester
 
-cg-brutaltester is a Java local tool to simulate the [CodinGame](https://www.codingame.com/) multiplayer IDE. How does it work? Very simple:
+cg-brutaltester is a Java local tool to simulate the [CodinGame](https://www.codingame.com/) multiplayer arena. How does it work? Very simple:
 
     java -jar cg-brutaltester.jar -r "java -jar cg-referee-ghost-in-the-cell.jar" -p1 "./myCode.exe" -p2 "php myCode.php" -t 2 -n 100 -l "./logs/"
 
@@ -119,19 +119,43 @@ This is not an official roadmap at all.
 
 If you have a bug or a problem with one of these referees, create an issue of the github project of the referee, not on cg-brutaltester project. This may not be a full list of available referees for cg-brutaltester. If you want to add a referee to this list, just make a pull request.
 
+ * Winter challenge 2024:
+   * https://github.com/aexg/WinterChallenge2024-Cellularena
+ * Cultist Wars
+   * https://github.com/kgeilmann/cultist-wars-referee
+ * Spring challenge 2024:
+   * https://github.com/aexg/SummerChallenge2024Olymbits
+ * Spring challenge 2023:
+   * https://github.com/aangairbender/SpringChallenge2023-brutaltester
+ * Fall challenge 2022:
+   * https://github.com/bastien-35/FallChallenge2022-KeepOffTheGrass
+ * Spring challenge 2022:
+   * https://github.com/johnpage-agixis/SpringChallenge2022
+ * Spring challenge 2021:
+   * https://github.com/LSmith-Zenoscave/SpringChallenge2021 (Java)
+ * Spring challenge 2020:
+   * https://github.com/Akarachudra/brutaltester-spring-challenge-2020 (Java)
+ * Unleash The Geek:
+   * https://github.com/fala13/UnleashTheGeek (Java)
+ * Legends Of Code And Magic:
+   * https://github.com/fala13/LegendsOfCodeAndMagic (Java)
+ * Code of Kutulu:
+   * https://github.com/fala13/code-of-kutulu (Java)
  * Ultimate Tic Tac Toe
    * https://github.com/dreignier/game-ultimate-tictactoe (Java)
+ * Botters of the Galaxy:
+   * https://github.com/Illedan/BOTG-Refree (Java) 
  * Ghost in the cell:
    * https://github.com/dreignier/cg-referee-ghost-in-the-cell (Java) (use it with `-o`)
  * Coders of the Caribbean:
    * https://github.com/Coac/brutaltester-referee-coders-of-the-caribbean (Java) (use it with `-o`)
-   * https://github.com/KevinBusse/cg-referee-coders-of-the-caribbean (Java) (use it with `-o`)
+   * https://github.com/kevinsandow/cg-referee-coders-of-the-caribbean (Java) (use it with `-o`)
  * Code 4 life:
-   * https://github.com/KevinBusse/cg-referee-code4life (Java) (use it with `-o`)
+   * https://github.com/kevinsandow/cg-referee-code4life (Java) (use it with `-o`)
  * Wondev Woman:
-   * https://github.com/KevinBusse/cg-referee-wondev-woman (Java) (use it with `-o`)
+   * https://github.com/kevinsandow/cg-referee-wondev-woman (Java) (use it with `-o`)
  * Mean Max:
-   * https://github.com/KevinBusse/cg-referee-mean-max (Java) (use it with `-o`)
+   * https://github.com/kevinsandow/cg-referee-mean-max (Java) (use it with `-o`)
  * Coders strike back:
    * https://github.com/robostac/coders-strike-back-referee (Go) (use it with `-o`)
  * Back to the Code:
